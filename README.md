@@ -5,6 +5,7 @@
   * Utilized Python, Jupyer NoteBook, Preprocessing documents (Tokenizing, Normalizing, Omitting Stop Words, Stemming), Postings Lists, Inverted Index, Positional Index (Dictionary), Different Query Operators (! ==> NOT, " " ==> Phrase), Vectorization, TF-IDF, Cosine & Jaccard Similarity Functions, Index Elimination, Champion Lists
 
 Dictionary Data Structure:
+
 ![333](https://github.com/amirbelbasi/persian-search-engine/assets/58425120/ff02c22f-6ebb-425f-af85-838c8faacc2b)
 
 Retrieved News using Cosine Similarity Function:
